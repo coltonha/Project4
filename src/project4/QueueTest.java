@@ -1,3 +1,10 @@
+/*
+ * Project #4
+ * Source Code File: QueueTest.java
+ * Programmer: Sungwoong Ha
+ * Due: 4/29/21
+ * Description: This is a Java implementation of tester class for queue implementation.
+ */
 package project4;
 
 public class QueueTest {

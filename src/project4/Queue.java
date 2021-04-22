@@ -1,3 +1,11 @@
+/*
+ * Project #4
+ * Source Code File: Queue.java
+ * Programmer: Sungwoong Ha
+ * Due: 4/29/21
+ * Description: This is a Java implementation of ADT Queue class.
+ * 
+ */
 package project4;
 
 public class Queue {
@@ -15,7 +23,7 @@ public class Queue {
         if (isEmpty()){
             head=newNode;
         }
-        else{
+        else{ 
             tail.next=newNode;
         }
         tail= newNode;

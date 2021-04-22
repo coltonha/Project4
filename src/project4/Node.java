@@ -1,3 +1,11 @@
+/*
+ * Project #4
+ * Source Code File: Node.java
+ * Programmer: Sungwoong Ha
+ * Due: 4/29/21
+ * Description: This is a Java implementation of Node class.
+ * 
+ */
 package project4;
 public class Node {
     public int item;
